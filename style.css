@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: grey;
+}
+
+section{
+    display:grid;
+    grid-template-rows: 11.11% 22.22% 22.22% 11.11% 11.11% 11.4% 3.70%;
+    grid-template-columns: 11.11% 11.11% 11.11% 22.22% 14.82% 14.82% 3.70%;
+    width: 50vw;
+    height: 99.6vh;
+    border: 0.1vw solid rgb(27, 27, 27);
+    background-color: white;
+}
+
+
